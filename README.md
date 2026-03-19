@@ -1,9 +1,10 @@
 # About
+An AI Search Content Optimization Tool for xhs content creators.
 
+## Demo
 
-<div align="center">
 <img alt="GHBanner" src="Screenshot 2026-03-19 at 17.43.38.png" />
-</div>
+
 
 # Run and deploy your AI Studio app
 
