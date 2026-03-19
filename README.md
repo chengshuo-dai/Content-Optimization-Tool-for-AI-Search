@@ -18,6 +18,8 @@ View your app in AI Studio: https://ai.studio/apps/08a78347-973e-4415-bac2-44d74
 ## Demo
 
 <div align="center">
+<img alt="GHBanner" src="Screenshot 2026-03-19 at 17.42.41.png" />
 <img alt="GHBanner" src="Screenshot 2026-03-19 at 17.43.38.png" />
-<img alt="GHBanner" src="Screenshot 2026-03-19 at 17.43.38.png" />
+<img alt="GHBanner" src="Screenshot 2026-03-19 at 17.43.54.png" />
+
 </div>
