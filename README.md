@@ -3,7 +3,7 @@ An AI Search Content Optimization Tool for xhs content creators.
 
 # Run on website
 
-View your app in AI Studio: https://ai.studio/apps/08a78347-973e-4415-bac2-44d74842ff41
+View on https://cot-for-ai-search.vercel.app/
 
 ## Run Locally
 
